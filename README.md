@@ -1,5 +1,4 @@
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/vT3bT57LII07icUW5P/video" width="480"></iframe></div>
-
+<img src="https://giphy.com/embed/vT3bT57LII07icUW5P/video"/>
 
 # Hi, I'm Prajoth and Welcome to my GitHub Profile
 A DevOps Cloud Engineer working on  Microsoft Azure, Amazon Web Services, DevOps, Self Development and my Experiences, as a Consultant in Cloud Engineering.
