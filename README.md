@@ -26,3 +26,7 @@ A DevOps Cloud Engineer working on  Microsoft Azure, Amazon Web Services, DevOps
 [![https://github.com/features/actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 
+| <a href="https://github.com/prajoth-b/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prajoth-b&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prajoth's github stats" /></a> | <a href="https://github.com/prajoth-b/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajoth-b&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
