@@ -12,14 +12,14 @@ A DevOps Cloud Engineer working on  Microsoft Azure, Amazon Web Services, DevOps
 ### Analytics ⚙️
   
 <p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prajoth-bangera" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prajoth-b" />
   <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
 </p>  
   
 <p align="left">
-<a href="https://github.com/prajoth-bangera">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=prajoth-bangera&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajoth-bangera&layout=compact&langs_count=8&hide=HCL&theme=tokyonight"/>
+<a href="https://github.com/prajoth-b">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=prajoth-b&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajoth-b&layout=compact&langs_count=8&hide=HCL&theme=tokyonight"/>
 </a>
 </p>
 
