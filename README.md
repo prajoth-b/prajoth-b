@@ -23,8 +23,8 @@ A DevOps Cloud Engineer working on  Microsoft Azure, Amazon Web Services, DevOps
 [![https://www.redhat.com/](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.redhat.com/)
 [![https://www.docker.com/](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![https://kubernetes.io/](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![https://github.com/features/actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)]
-[![https://prometheus.io/](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+[![https://github.com/features/actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![https://prometheus.io/](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)](https://prometheus.io)
 
 
 | <a href="https://github.com/prajoth-b/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prajoth-b&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prajoth's github stats" /></a> | <a href="https://github.com/prajoth-b/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajoth-b&layout=compact&theme=buefy&hide_border=true" /></a> |
