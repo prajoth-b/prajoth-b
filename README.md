@@ -9,18 +9,6 @@ A DevOps Cloud Engineer working on  Microsoft Azure, Amazon Web Services, DevOps
 [![https://www.linkedin.com/in/prajoth-bangera/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajoth-bangera)
 
 
-### Analytics ⚙️  
-## Github Stats:
-[![GitHub followers](https://img.shields.io/github/followers/prajoth-b.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/someoneelsescloud?tab=followers)
-[![prajoth-b's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajoth-b)](https://github.com/prajoth-b/github-readme-stats)
-
-<p align="left">
-<a href="https://github.com/prajoth-b">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=prajoth-b&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajoth-b&layout=compact&langs_count=8&hide=HCL&theme=tokyonight"/>
-</a>
-</p>
-
 ## I Like to dabble in all things cloud:
 [![https://azure.microsoft.com/en-au/services/devops/](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-au/services/devops/)
 [![https://azure.com/](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]([https://azure.com/)
@@ -34,5 +22,15 @@ A DevOps Cloud Engineer working on  Microsoft Azure, Amazon Web Services, DevOps
 [![https://github.com/features/actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![https://prometheus.io/](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)](https://prometheus.io)
 
+### Analytics ⚙️  
+## Github Stats:
+[![GitHub followers](https://img.shields.io/github/followers/prajoth-b.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/someoneelsescloud?tab=followers)
+[![prajoth-b's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajoth-b)](https://github.com/prajoth-b/github-readme-stats)
 
+<p align="left">
+<a href="https://github.com/prajoth-b">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=prajoth-b&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajoth-b&layout=compact&langs_count=8&hide=HCL&theme=tokyonight"/>
+</a>
+</p>
 
