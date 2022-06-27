@@ -24,7 +24,7 @@ A DevOps Cloud Engineer working on  Microsoft Azure, Amazon Web Services, DevOps
 
 ### Analytics ⚙️  
 ## Github Stats:
-[![GitHub followers](https://img.shields.io/github/followers/prajoth-b.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/someoneelsescloud?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/prajoth-b.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/prajoth-b?tab=followers)
 [![prajoth-b's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajoth-b)](https://github.com/prajoth-b/github-readme-stats)
 
 <p align="left">
