@@ -9,13 +9,7 @@ A DevOps Cloud Engineer working on  Microsoft Azure, Amazon Web Services, DevOps
 [![https://www.linkedin.com/in/prajoth-bangera/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajoth-bangera)
 
 
-### Analytics ⚙️
-  
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prajoth-b" />
-  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
-</p>  
-
+### Analytics ⚙️  
 ## Github Stats:
 [![GitHub followers](https://img.shields.io/github/followers/prajoth-b.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/someoneelsescloud?tab=followers)
 [![prajoth-b's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajoth-b)](https://github.com/prajoth-b/github-readme-stats)
